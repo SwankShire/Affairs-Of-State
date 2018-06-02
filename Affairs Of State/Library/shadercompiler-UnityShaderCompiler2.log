@@ -1,0 +1,33 @@
+Base path: /home/nathan/Unity-2018.2.0b5/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=15 insize=2134 outsize=893 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=812 outsize=1865 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=2863 outsize=83385 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=7524 outsize=17853 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=5188 outsize=17373 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=5188 outsize=17405 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=2444 outsize=10165 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=9421 outsize=15909 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=9421 outsize=33881 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=9421 outsize=35605 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=2953 outsize=3297 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=1864 outsize=1917 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=1864 outsize=2477 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=1505 outsize=3729 ok=1
+Cmd: initializeCompiler
+
+Quitting shader compiler process
